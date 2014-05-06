@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Myrailsample
 
 TODO: Write a gem description
@@ -27,3 +28,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+=======
+myrubyample
+===========
+
+my ruby sample project
+>>>>>>> 87ce1e0d8524721830147debf7ec505e745ddab1
